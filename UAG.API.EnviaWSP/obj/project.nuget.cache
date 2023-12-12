@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1o8pAdJkTUZVhvE4zrhFWi3Dj9aAC4Vll1e4a4qWrSr95We6NELGDZ1hwhg61C2+Lft50VQqe7ng5jdqHI1QrA==",
+  "success": true,
+  "projectFilePath": "D:\\ProyectosUAG\\UAG.API.EnviaWSP\\UAG.API.EnviaWSP\\UAG.API.EnviaWSP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\4942054\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\4942054\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\4942054\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\4942054\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\4942054\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\4942054\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\4942054\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
